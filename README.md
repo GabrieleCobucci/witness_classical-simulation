@@ -9,3 +9,4 @@ This function computes an upper bound on a generic witness for classical simulab
 Example of upper bound computation in the case of an ensemble {\rho_x}_{x} with x \in [1,6] and measurements M_{b|y} = mub{y,b}*mub{y,b}', where M_{b|y} are the MUBs in dimension d.
 
 # References:
+G. Cobucci, A. Bernal, M. J. Renner, A. Tavakoli (2025). Operationally classical simulation of quantum states (https://arxiv.org/abs/2502.01440)
